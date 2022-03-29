@@ -1,6 +1,6 @@
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-<div align="center">I'm Rizwan, a passionate frontend developer from Bangladesh based in Germany</div>  
+<h1 align="center">Hi 👋, I'm Rizwan</h1>
+<div align="center">A passionate frontend developer from Bangladesh based in Germany</div>  
   
 
 - 🌱 I’m currently learning Full Stack Development with React.js, TypeScript, Node.js, Express.js, MongoDB  

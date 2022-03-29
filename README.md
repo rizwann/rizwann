@@ -35,10 +35,10 @@
 
 </td><td valign="top" width="33%">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true" align="center" />
 
 </td><td valign="top" width="33%">
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" />
 
 
 </td></tr></table>  
@@ -65,18 +65,12 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 </div>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&locale=en" alt="rizwann" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" /></p>
 
 
 

@@ -1,3 +1,5 @@
+
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
 <div align="center">I'm Rizwan, a passionate frontend developer from Bangladesh based in Germany</div>  
   
 

@@ -52,9 +52,9 @@
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true" align="left" width="30%" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" width="30%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true" align="left" width="33%" height="50%" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" width="33%" height="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" width="33%" height="50%" />
 
 
 </div>

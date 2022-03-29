@@ -33,7 +33,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" height="100%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true" align="center" />
 

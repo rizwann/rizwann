@@ -27,13 +27,12 @@
 <br/>  
 
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
 
 ### Languages & Tools  
-<div align="center">  
+<div >  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -53,9 +52,9 @@
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true" align="left" width="40%" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" align="right" width="40%" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" />
+<img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true" align="left" width="30%" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" width="30%" />
 
 
 </div>

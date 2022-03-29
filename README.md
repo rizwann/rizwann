@@ -8,7 +8,7 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-    ## Connect with me  
+## Connect with me  
 <div >
 <a href="https://github.com/rizwann" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -53,13 +53,10 @@
 
 <br/>  
 
-<br/>  
-</div>
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&locale=en" alt="rizwann" /></p>
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true" align="center" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" /></p>
+
+</div>
+
+

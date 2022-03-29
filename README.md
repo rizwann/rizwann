@@ -33,21 +33,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 </div>
 
-</td><td valign="top" width="33%" height="100%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true" align="center" />
-
-</td><td valign="top" width="33%">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" />
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
-<div align="center">
+<div >
 <a href="https://github.com/rizwann" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -72,6 +59,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&locale=en" alt="rizwann" /></p>
 
 
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" /></p>

@@ -53,7 +53,7 @@
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true" align="center" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true" align="center" /></p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" /></p>
 

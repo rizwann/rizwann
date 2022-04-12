@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rizwan</h1>
-<h3 align="center">Welcome to my profile !!</h3>
 <div align="center">A passionate frontend developer from Bangladesh based in Germany</div>  
-  
+  <h3 align="center">Welcome to my profile !!</h3>
 
 - 🌱 I’m currently learning Full Stack Development with React.js, TypeScript, Node.js, Express.js, MongoDB  
   

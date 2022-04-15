@@ -4,12 +4,15 @@
   <h3 align="center">Welcome to my profile !!</h3>
 
 - 🌱 I’m currently learning Full Stack Development with React.js, TypeScript, Node.js, Express.js, MongoDB  
-  
+
+- 📫 How to reach me **rizwankabirsizan@gmail.com**
+
+- 📄 Know about my experiences [https://bit.ly/rizwan-resume](https://bit.ly/rizwan-resume)
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
 - ⚡ Fun fact: I use tabs over spaces  
+
 ## Connect with me  
 <div >
 <a href="https://linkedin.com/in/kabirrizwan" target="_blank">

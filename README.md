@@ -31,7 +31,7 @@
 <h2>✔️ My area of expertise </h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwann&layout=compact&theme=default" alt="Stefan's Github Streak" width="420"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&layout=compact&theme=default" alt="Stefan's Github Streak" width="420"/> 
 </p>
 
 <table><tr><td valign="top" width="33%">

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Full Stack Development with React.js, TypeScript, Node.js, Express.js, MongoDB  
 
-- 📫 How to reach me **rizwankabirsizan@gmail.com**
+- 📫 How to reach me: **rizwankabirsizan@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/rizwan-resume](https://bit.ly/rizwan-resume)
 

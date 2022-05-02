@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rizwan</h1>
+<h1 align="center">Hi 👋, I'm Rizwan.</h1>
 <div align="center">A passionate frontend developer from Bangladesh based in Germany</div>  
   <h3 align="center">Welcome to my profile !!</h3>
 

@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **rizwankabirsizan@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/rizwan-resume](https://bit.ly/rizwan-resume)
+- 📄 Know about my experiences [https://bit.ly/rizwan-resume](https://bit.ly/resume-riz1)
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   

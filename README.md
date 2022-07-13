@@ -3,7 +3,7 @@
 <div align="center">A passionate frontend developer from Bangladesh based in Germany</div>  
   <h3 align="center">Welcome to my profile !!</h3>
 
-- 🌱 I’m currently learning Full Stack Development with React.js, TypeScript, Node.js, Express.js, MongoDB  
+- 🌱 I’m currently wokring as a Frontend Developer at Fashion Digital GmbH & Co. KG. [React, Next.js, TypeScript, Apollo GraphQl, Storybook, HTML5, Tailwind CSS]  
 
 - 📫 How to reach me: **rizwankabirsizan@gmail.com**
 

@@ -13,7 +13,7 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies.  
   
-- ⚡ Fun fact: I use tabs over spaces.
+- ⚡ Fun fact: I use tabs over spaces!
 
 ## Connect with me  
 <div >

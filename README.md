@@ -5,7 +5,7 @@
 
 - 🔭  I’m currently working as a Frontend Developer at Fashion Digital GmbH & Co. KG. [React, Next.js, TypeScript, Apollo GraphQL, Storybook, Tailwind CSS]
 
-- 🌱 I am learning Advanced Next.js and Micro-Frontend.
+- 🌱 I am learning Advanced Next.js and Micro-Frontend!!
 
 - 📫 How to reach me: **rizwankabirsizan@gmail.com**
 

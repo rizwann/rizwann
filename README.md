@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rizwan.</h1>
-<div align="center">A passionate frontend developer from Bangladesh based in Germany</div>  
+<div align="center">A passionate Frontend Developer based in Germany</div>  
   <h3 align="center">Welcome to my profile !!</h3>
 
 - 🔭  I’m currently working as a Frontend Developer at H&H Communication Lab GmbH. [React, Next.js, TypeScript, Apollo GraphQL, Storybook, Tailwind CSS]

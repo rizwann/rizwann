@@ -24,6 +24,8 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&layout=compact&theme=default" alt="Stefan's Github Streak" width="420"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true"  width="420" height="80%" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" width="420" height="80%" />
 </p>
 
 

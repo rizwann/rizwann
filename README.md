@@ -37,8 +37,8 @@
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true"  width="85%" height="80%" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" width="85%" height="80%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true"  width="100%" height="80%" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" width="100%" height="80%" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" width="28%" height="47%" />
  -->
 

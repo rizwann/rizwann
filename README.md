@@ -9,7 +9,9 @@
 
 - 📫 How to reach me: **rizwankabirsizan@gmail.com**
 
-- ❓ Ask me about anything related to MERN stack and related technologies.  
+- ❓ Ask me about anything related to MERN stack and related technologies.
+
+- https://r-kabir.netlify.app/ 
 
 ## Connect with me  
 <div >

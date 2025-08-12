@@ -17,7 +17,7 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwann&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="rizwann" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwann&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="rizwann" /></p>
 

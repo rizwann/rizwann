@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwann&label=Profile%20views&color=0e75b6&style=flat" alt="rizwann" /> </p>
 
-- 🔭 I’m currently working **as a Frontend Developer at H&H Communication Lab GmbH. [React, Redux, TypeScript, REST API, Sass]**
+- 🔭 I’m currently working as a **Frontend Developer at H&H Communication Lab GmbH. [React, Redux, TypeScript, REST API, Sass]**
 
 - 🌱 I am learning **Advanced Next.js and Micro-Frontend!!**
 
@@ -22,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&locale=en" alt="rizwann" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&" alt="rizwann" /></p>
-

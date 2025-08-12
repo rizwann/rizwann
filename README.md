@@ -16,8 +16,8 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwann&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="rizwann" /></p>
-
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rizwann&theme=dark&hide_border=false" alt="rizwann" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwann&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="rizwann" />
+<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rizwann&theme=dark&hide_border=false" alt="rizwann" />
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwann&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="rizwann" /></p>

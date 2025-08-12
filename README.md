@@ -1,42 +1,25 @@
+<h1 align="center">Hi 👋, I'm Rizwan</h1>
+<h3 align="center">A passionate Frontend Developer based in Germany.</h3>
 
-<h1 align="center">Hi 👋, I'm Rizwan.</h1>
-<div align="center">A passionate Frontend Developer based in Germany</div>  
-  <h3 align="center">Welcome to my profile !!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwann&label=Profile%20views&color=0e75b6&style=flat" alt="rizwann" /> </p>
 
-- 🔭  I’m currently working as a Frontend Developer at H&H Communication Lab GmbH. [React, Next.js, TypeScript, Apollo GraphQL, Storybook, Tailwind CSS]
+- 🔭 I’m currently working **as a Frontend Developer at H&H Communication Lab GmbH. [React, Redux, TypeScript, REST API, Sass]**
 
-- 🌱 I am learning Advanced Next.js and Micro-Frontend!!
+- 🌱 I am learning **Advanced Next.js and Micro-Frontend!!**
 
-- 📫 How to reach me: **rizwankabirsizan@gmail.com**
+- 👨‍💻 All of my projects are available at [https://r-kabir.netlify.app/](https://r-kabir.netlify.app/)
 
-- ❓ Ask me about anything related to MERN stack and related technologies.
+- 💬 Ask me about **MERN stack and related technologies.**
 
-- https://r-kabir.netlify.app/ 
+- 📫 How to reach me **rizwankabirsizan@gmail.com**
 
-## Connect with me  
-<div >
-<a href="https://instagram.com/rizwan.kabir" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;margin-right:5px;" />
-</a>
-</div>  
-
-<br/>  
-
-<h2>✔️ My area of expertise </h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&layout=compact&theme=default" alt="Stefan's Github Streak" width="420"/> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" /></p>
 
-<br/>  
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&count_private=true&hide_border=true"  width="420" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&theme=default" alt="rizwann" width="420" />
-  </p>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwann&show_icons=true&locale=en&layout=compact" alt="rizwann" width="28%" height="47%" />
- -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwann&show_icons=true&locale=en" alt="rizwann" /></p>
 
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwann&" alt="rizwann" /></p>
 

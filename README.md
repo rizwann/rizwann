@@ -7,7 +7,7 @@
 
 - 🌱 I am learning **Advanced Next.js and Micro-Frontend!!**
 
-- 👨‍💻 All of my projects are available at [https://rizwan-kabir.site/](https://rizwan-kabir.site/)
+- 👨‍💻 All of my projects are available at [https://www.rizwan-kabir.site/](https://www.rizwan-kabir.site/)
 
 - 💬 Ask me about **MERN stack and related technologies.**
 

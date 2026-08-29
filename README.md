@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizwan</h1>
-<h3 align="center">A passionate Frontend Developer based in Germany.</h3>
+<h3 align="center">A passionate Frontend Software Developer based in Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwann&label=Profile%20views&color=0e75b6&style=flat" alt="rizwann" /> </p>
 
